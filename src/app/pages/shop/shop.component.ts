@@ -5,7 +5,7 @@ import { CommonModule } from '@angular/common';
   selector: 'app-shop',
   standalone: true,
   imports: [CommonModule],
-  template: `<h1>main shop</h1>`,
+  template: `<h1>main shop test</h1>`,
 })
 export class ShopComponent {
 
